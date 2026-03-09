@@ -24,3 +24,5 @@ Thumbs.db
 
 # Добавленный нами файл
 tmp_data.txt
+
+.env
